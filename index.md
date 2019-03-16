@@ -6,6 +6,10 @@
 
 ### 在这里你可以看到关于听风iPlayTV源最新的更新动向，谢谢大家的支持。
 
+## 20190316
+- 更新国际分类：SONY BBCEARTH/CNN ASIA/CARTOON TAIWAN/ASIA
+- 删除/更新部分失效频道
+
 ## 20190315
 - 更新国际分类：CNN/BBC等英美频道
 - 更新国际分类：CBS/KBS/TVN等韩国频道
